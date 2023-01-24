@@ -1,1 +1,1 @@
-# um modelo de Sistema de Alerta Precoce (EWS) para crises financeiras
+# Um modelo de Sistema de Alerta Precoce (EWS) para crises financeiras
